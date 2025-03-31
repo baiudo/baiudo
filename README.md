@@ -1,7 +1,7 @@
 # 👋 Apresentação Pessoal
 
 ## 📌 Sobre Mim
-Olá! Meu nome é Rodrigo e sou estudante de Cieência da Computação pela Universidade de Vila Velha (UVV).
+Olá! Meu nome é Rodrigo e sou estudante de Ciência da Computação pela Universidade de Vila Velha (UVV).
 
 ## 🚀 Habilidades
 - 💻 Tecnologia 1
