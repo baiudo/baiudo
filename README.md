@@ -4,7 +4,7 @@
 Olá! Meu nome é Rodrigo e sou estudante de Ciência da Computação pela Universidade de Vila Velha (UVV).
 
 ## 🚀 Habilidades
-- 🗣️ Inglês
+- 🗣️ Inglês (B1)
 - 🖥️ Pacote Office
 - 🐍 Python
 
