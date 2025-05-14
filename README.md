@@ -1,20 +1,16 @@
-# 👋 Apresentação Pessoal
+# 👋 Sobre mim
 
-## 📌 Sobre Mim
-Olá! Meu nome é Rodrigo e sou estudante de Ciência da Computação pela Universidade de Vila Velha (UVV).
+ - 👨 Rodrigo Baião de Magalhães
+ - 📖 Estudante de Ciência da Computação pela UVV
 
-## 🚀 Habilidades
-- 🗣️ Inglês (B1)
-- 🖥️ Pacote Office
-- 🐍 Python
+#
+<div align="center">
+<a href="https://github.com/baiudo">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=baiudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiudo&layout=compact&langs_count=7&theme=dark"/>
+</div> 
 
-## 📜 Curiosidades
-- 🎮 Gosto de jogar.
-- 📚 Sempre aprendendo sobre a vida.
-- 🌎 Apaixonado pelo espaço.
-
-
-<!---
-baiudo/baiudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
+<div align="center">
+<img width="30vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img width="30vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img width="30vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img width="30vw" src="https://icons-for-free.com/iff/png/256/development+logo+mysql+icon-1320184807686758112.png"> <img width="30vw" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+</div> 
